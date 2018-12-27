@@ -6,6 +6,7 @@ github.com:alipay/sofa-build,github.com:sofastack/sofa-build
 github.com:alipay/sofa-common-tools,github.com:sofastack/sofa-common-tools
 github.com:alipay/sofa-rpc,github.com:sofastack/sofa-rpc
 github.com:alipay/sofa-rpc-boot-projects,github.com:sofastack/sofa-rpc-boot-projects
+github.com:alipay/sofa-hessian,github.com:sofastack/sofa-hessian
 github.com:alipay/sofa-lookout,github.com:sofastack/sofa-lookout
 github.com:alipay/sofa-tracer,github.com:sofastack/sofa-tracer
 github.com:alipay/sofa-jarslink,github.com:sofastack/sofa-jarslink
