@@ -19,6 +19,7 @@ git fetch -p --all
 git merge upstream/master -q
 # 提交到fork master
 git push origin master
+git push origin --tags
 echo "------------"
 echo 
 
