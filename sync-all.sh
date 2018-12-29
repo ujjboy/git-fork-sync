@@ -4,7 +4,7 @@ shellDir=$(cd "$(dirname "$0")"; pwd)
 repo_path=${shellDir}
 
 echo ">>> Current path is ${repo_path}"
-for line in `cat ./config.txt`
+for line in `cat ${repo_path}/config.txt`
 do
 {
     if [ "${line:0:1}" == "#" ]; then
