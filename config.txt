@@ -13,6 +13,7 @@ github.com:alipay/sofa-jarslink,github.com:sofastack/sofa-jarslink
 github.com:alipay/sofa-mesh,github.com:sofastack/sofa-mesh
 github.com:alipay/sofa-mosn,github.com:sofastack/sofa-mosn
 github.com:alipay/sofa-rpc-node,github.com:sofastack/sofa-rpc-node
+github.com:alipay/sofastack-doc,github.com:sofastack/sofastack-doc
 #gitee
 github.com:alipay/sofa-ark,gitee.com:alipay/sofa-ark
 github.com:alipay/sofa-bolt,gitee.com:alipay/sofa-bolt
