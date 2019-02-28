@@ -1,4 +1,5 @@
 #github
+github.com:alipay/sofa-acts,github.com:sofastack/sofa-acts
 github.com:alipay/sofa-ark,github.com:sofastack/sofa-ark
 github.com:alipay/sofa-bolt,github.com:sofastack/sofa-bolt
 github.com:alipay/sofa-boot,github.com:sofastack/sofa-boot
@@ -15,6 +16,7 @@ github.com:alipay/sofa-mosn,github.com:sofastack/sofa-mosn
 github.com:alipay/sofa-rpc-node,github.com:sofastack/sofa-rpc-node
 github.com:alipay/sofastack-doc,github.com:sofastack/sofastack-doc
 #gitee
+github.com:alipay/sofa-acts,gitee.com:alipay/sofa-acts
 github.com:alipay/sofa-ark,gitee.com:alipay/sofa-ark
 github.com:alipay/sofa-bolt,gitee.com:alipay/sofa-bolt
 github.com:alipay/sofa-boot,gitee.com:alipay/sofa-boot
