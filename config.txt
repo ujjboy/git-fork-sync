@@ -8,6 +8,7 @@ github.com:alipay/sofa-common-tools,github.com:sofastack/sofa-common-tools
 github.com:alipay/sofa-jraft,github.com:sofastack/sofa-jraft
 github.com:alipay/sofa-rpc,github.com:sofastack/sofa-rpc
 github.com:alipay/sofa-rpc-boot-projects,github.com:sofastack/sofa-rpc-boot-projects
+github.com:alipay/sofa-registry,github.com:sofastack/sofa-registry
 github.com:alipay/sofa-hessian,github.com:sofastack/sofa-hessian
 github.com:alipay/sofa-lookout,github.com:sofastack/sofa-lookout
 github.com:alipay/sofa-tracer,github.com:sofastack/sofa-tracer
@@ -26,6 +27,7 @@ github.com:alipay/sofa-common-tools,gitee.com:alipay/sofa-common-tools
 github.com:alipay/sofa-jraft,gitee.com:alipay/sofa-jraft
 github.com:alipay/sofa-rpc,gitee.com:alipay/sofa-rpc
 github.com:alipay/sofa-rpc-boot-projects,gitee.com:alipay/sofa-rpc-boot-projects
+github.com:alipay/sofa-registry,gitee.com:alipay/sofa-registry
 github.com:alipay/sofa-hessian,gitee.com:alipay/sofa-hessian
 github.com:alipay/sofa-lookout,gitee.com:alipay/sofa-lookout
 github.com:alipay/sofa-tracer,gitee.com:alipay/sofa-tracer
