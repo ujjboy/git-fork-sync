@@ -13,6 +13,8 @@ if [ ! -d ${origin_path} ]; then
 fi
 cd ${origin_path}
 git fetch -p --all
-echo ">>>  push mirror to git@${fork_repo}"
+git pull --all
+echo ">>>  push mirror and tags to git@${fork_repo}"
 git push --mirror git@${fork_repo}
+git push --tags git@${fork_repo}
 echo
