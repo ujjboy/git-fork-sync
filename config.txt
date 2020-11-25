@@ -13,6 +13,6 @@ github.com:sofastack/sofa-hessian,gitee.com:sofastack/sofa-hessian
 github.com:sofastack/sofa-lookout,gitee.com:sofastack/sofa-lookout
 github.com:sofastack/sofa-tracer,gitee.com:sofastack/sofa-tracer
 github.com:sofastack/sofa-jarslink,gitee.com:sofastack/sofa-jarslink
-github.com:alipay/sofa-mosn,gitee.com:alipay/sofa-mosn
+github.com:mosn/mosn,gitee.com:sofastack/sofa-mosn
 github.com:seata/seata,gitee.com:seata-io/seata
 github.com:seata/seata-samples,gitee.com:seata-io/seata-samples
